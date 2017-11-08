@@ -1,0 +1,20 @@
+c:\Users\Laiseca\documents\visual studio 2015\Projects\Pets\Dal\bin\Debug\Dal.dll
+c:\Users\Laiseca\documents\visual studio 2015\Projects\Pets\Dal\bin\Debug\Dal.pdb
+c:\Users\Laiseca\documents\visual studio 2015\Projects\Pets\Dal\bin\Debug\Entities.dll
+c:\Users\Laiseca\documents\visual studio 2015\Projects\Pets\Dal\bin\Debug\EntityFramework.dll
+c:\Users\Laiseca\documents\visual studio 2015\Projects\Pets\Dal\bin\Debug\Entities.pdb
+c:\Users\Laiseca\documents\visual studio 2015\Projects\Pets\Dal\bin\Debug\EntityFramework.xml
+c:\Users\Laiseca\documents\visual studio 2015\Projects\Pets\Dal\bin\Debug\es\EntityFramework.resources.dll
+c:\Users\Laiseca\documents\visual studio 2015\Projects\Pets\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+c:\Users\Laiseca\documents\visual studio 2015\Projects\Pets\Dal\obj\Debug\Dal.dll
+c:\Users\Laiseca\documents\visual studio 2015\Projects\Pets\Dal\obj\Debug\Dal.pdb
+C:\Desarrollo\Pets\Dal\bin\Debug\Dal.dll
+C:\Desarrollo\Pets\Dal\bin\Debug\Dal.pdb
+C:\Desarrollo\Pets\Dal\bin\Debug\Entities.dll
+C:\Desarrollo\Pets\Dal\bin\Debug\EntityFramework.dll
+C:\Desarrollo\Pets\Dal\bin\Debug\Entities.pdb
+C:\Desarrollo\Pets\Dal\bin\Debug\EntityFramework.xml
+C:\Desarrollo\Pets\Dal\bin\Debug\es\EntityFramework.resources.dll
+C:\Desarrollo\Pets\Dal\obj\Debug\Dal.csprojResolveAssemblyReference.cache
+C:\Desarrollo\Pets\Dal\obj\Debug\Dal.dll
+C:\Desarrollo\Pets\Dal\obj\Debug\Dal.pdb

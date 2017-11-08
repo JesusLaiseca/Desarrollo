@@ -1,0 +1,9 @@
+c:\Users\Laiseca\documents\visual studio 2015\Projects\Pets\Entities\bin\Debug\Entities.dll
+c:\Users\Laiseca\documents\visual studio 2015\Projects\Pets\Entities\bin\Debug\Entities.pdb
+c:\Users\Laiseca\documents\visual studio 2015\Projects\Pets\Entities\obj\Debug\Entities.dll
+c:\Users\Laiseca\documents\visual studio 2015\Projects\Pets\Entities\obj\Debug\Entities.pdb
+C:\Desarrollo\Pets\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Desarrollo\Pets\Entities\obj\Debug\Entities.dll
+C:\Desarrollo\Pets\Entities\obj\Debug\Entities.pdb
+C:\Desarrollo\Pets\Entities\bin\Debug\Entities.dll
+C:\Desarrollo\Pets\Entities\bin\Debug\Entities.pdb

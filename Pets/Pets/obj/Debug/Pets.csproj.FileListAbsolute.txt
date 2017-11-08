@@ -1,0 +1,210 @@
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\roslyn\csc.exe
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\roslyn\System.Collections.Immutable.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\roslyn\vbc.exe
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\roslyn\VBCSCompiler.exe
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\roslyn\VBCSCompiler.exe.config
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Pets.dll.config
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Pets.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Pets.pdb
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Antlr3.Runtime.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Dal.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Entities.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\EntityFramework.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\EntityFramework.SqlServer.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.Security.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.Security.Google.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Web.Infrastructure.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Newtonsoft.Json.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Owin.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Net.Http.Formatting.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.Helpers.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.Http.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.Http.Owin.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.Http.WebHost.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.Mvc.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.Optimization.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.Razor.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.WebPages.Deployment.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.WebPages.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.WebPages.Razor.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\WebGrease.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Dal.pdb
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Entities.pdb
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Newtonsoft.Json.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Net.Http.Formatting.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.Helpers.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.Http.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.Http.WebHost.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.Mvc.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.Optimization.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.Razor.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.WebPages.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.WebPages.Deployment.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.WebPages.Razor.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Antlr3.Runtime.pdb
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\EntityFramework.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\EntityFramework.SqlServer.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.Security.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.Security.Google.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\System.Web.Http.Owin.xml
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\System.Net.Http.Formatting.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\System.Web.Helpers.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\System.Web.Http.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\System.Web.Http.WebHost.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\System.Web.Mvc.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\System.Web.Optimization.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\System.Web.Razor.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\System.Web.WebPages.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\EntityFramework.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\EntityFramework.SqlServer.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\Microsoft.Owin.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\Microsoft.Owin.Security.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\Microsoft.Owin.Security.Google.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\bin\es\System.Web.Http.Owin.resources.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\obj\Debug\Pets.csprojResolveAssemblyReference.cache
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\obj\Debug\Pets.dll
+c:\users\laiseca\documents\visual studio 2015\Projects\Pets\Pets\obj\Debug\Pets.pdb
+C:\Desarrollo\Pets\Pets\bin\roslyn\csc.exe
+C:\Desarrollo\Pets\Pets\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Desarrollo\Pets\Pets\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Desarrollo\Pets\Pets\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Desarrollo\Pets\Pets\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Desarrollo\Pets\Pets\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Desarrollo\Pets\Pets\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Desarrollo\Pets\Pets\bin\roslyn\System.Collections.Immutable.dll
+C:\Desarrollo\Pets\Pets\bin\roslyn\System.Reflection.Metadata.dll
+C:\Desarrollo\Pets\Pets\bin\roslyn\vbc.exe
+C:\Desarrollo\Pets\Pets\bin\roslyn\VBCSCompiler.exe
+C:\Desarrollo\Pets\Pets\bin\roslyn\VBCSCompiler.exe.config
+C:\Desarrollo\Pets\Pets\bin\Pets.dll.config
+C:\Desarrollo\Pets\Pets\bin\Pets.dll
+C:\Desarrollo\Pets\Pets\bin\Pets.pdb
+C:\Desarrollo\Pets\Pets\bin\Antlr3.Runtime.dll
+C:\Desarrollo\Pets\Pets\bin\Dal.dll
+C:\Desarrollo\Pets\Pets\bin\Entities.dll
+C:\Desarrollo\Pets\Pets\bin\EntityFramework.dll
+C:\Desarrollo\Pets\Pets\bin\EntityFramework.SqlServer.dll
+C:\Desarrollo\Pets\Pets\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Desarrollo\Pets\Pets\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Desarrollo\Pets\Pets\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Desarrollo\Pets\Pets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.dll
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.Security.dll
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.Security.Google.dll
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Web.Infrastructure.dll
+C:\Desarrollo\Pets\Pets\bin\Newtonsoft.Json.dll
+C:\Desarrollo\Pets\Pets\bin\Owin.dll
+C:\Desarrollo\Pets\Pets\bin\System.Net.Http.Formatting.dll
+C:\Desarrollo\Pets\Pets\bin\System.Web.Helpers.dll
+C:\Desarrollo\Pets\Pets\bin\System.Web.Http.dll
+C:\Desarrollo\Pets\Pets\bin\System.Web.Http.Owin.dll
+C:\Desarrollo\Pets\Pets\bin\System.Web.Http.WebHost.dll
+C:\Desarrollo\Pets\Pets\bin\System.Web.Mvc.dll
+C:\Desarrollo\Pets\Pets\bin\System.Web.Optimization.dll
+C:\Desarrollo\Pets\Pets\bin\System.Web.Razor.dll
+C:\Desarrollo\Pets\Pets\bin\System.Web.WebPages.Deployment.dll
+C:\Desarrollo\Pets\Pets\bin\System.Web.WebPages.dll
+C:\Desarrollo\Pets\Pets\bin\System.Web.WebPages.Razor.dll
+C:\Desarrollo\Pets\Pets\bin\WebGrease.dll
+C:\Desarrollo\Pets\Pets\bin\Dal.pdb
+C:\Desarrollo\Pets\Pets\bin\Entities.pdb
+C:\Desarrollo\Pets\Pets\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Desarrollo\Pets\Pets\bin\Newtonsoft.Json.xml
+C:\Desarrollo\Pets\Pets\bin\System.Net.Http.Formatting.xml
+C:\Desarrollo\Pets\Pets\bin\System.Web.Helpers.xml
+C:\Desarrollo\Pets\Pets\bin\System.Web.Http.xml
+C:\Desarrollo\Pets\Pets\bin\System.Web.Http.WebHost.xml
+C:\Desarrollo\Pets\Pets\bin\System.Web.Mvc.xml
+C:\Desarrollo\Pets\Pets\bin\System.Web.Optimization.xml
+C:\Desarrollo\Pets\Pets\bin\System.Web.Razor.xml
+C:\Desarrollo\Pets\Pets\bin\System.Web.WebPages.xml
+C:\Desarrollo\Pets\Pets\bin\System.Web.WebPages.Deployment.xml
+C:\Desarrollo\Pets\Pets\bin\System.Web.WebPages.Razor.xml
+C:\Desarrollo\Pets\Pets\bin\Antlr3.Runtime.pdb
+C:\Desarrollo\Pets\Pets\bin\EntityFramework.xml
+C:\Desarrollo\Pets\Pets\bin\EntityFramework.SqlServer.xml
+C:\Desarrollo\Pets\Pets\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Desarrollo\Pets\Pets\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Desarrollo\Pets\Pets\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.xml
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.Security.xml
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.Security.Google.xml
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Desarrollo\Pets\Pets\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Desarrollo\Pets\Pets\bin\System.Web.Http.Owin.xml
+C:\Desarrollo\Pets\Pets\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\System.Web.Helpers.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\System.Web.Http.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\System.Web.Mvc.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\System.Web.Optimization.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\System.Web.Razor.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\System.Web.WebPages.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\EntityFramework.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\Microsoft.Owin.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Desarrollo\Pets\Pets\bin\es\System.Web.Http.Owin.resources.dll
+C:\Desarrollo\Pets\Pets\obj\Debug\Pets.csprojResolveAssemblyReference.cache
+C:\Desarrollo\Pets\Pets\obj\Debug\Pets.dll
+C:\Desarrollo\Pets\Pets\obj\Debug\Pets.pdb
+C:\Desarrollo\Pets\Pets\bin\Bll.dll
+C:\Desarrollo\Pets\Pets\bin\Bll.pdb

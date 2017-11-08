@@ -1,0 +1,11 @@
+C:\Desarrollo\Pets\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+C:\Desarrollo\Pets\Bll\bin\Debug\Bll.dll
+C:\Desarrollo\Pets\Bll\bin\Debug\Bll.pdb
+C:\Desarrollo\Pets\Bll\bin\Debug\Dal.dll
+C:\Desarrollo\Pets\Bll\bin\Debug\Entities.dll
+C:\Desarrollo\Pets\Bll\bin\Debug\EntityFramework.dll
+C:\Desarrollo\Pets\Bll\bin\Debug\System.Linq.Dynamic.dll
+C:\Desarrollo\Pets\Bll\bin\Debug\Dal.pdb
+C:\Desarrollo\Pets\Bll\bin\Debug\Entities.pdb
+C:\Desarrollo\Pets\Bll\obj\Debug\Bll.dll
+C:\Desarrollo\Pets\Bll\obj\Debug\Bll.pdb
