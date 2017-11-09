@@ -1,35 +1,12 @@
 ﻿@{
-    ViewBag.Title = "Bien Venido";
+    ViewBag.Title = "Pet Clinic";
 }
 
-<style>
-    table, tr, td, th {
-        border: 1px solid #ccc;
-        padding: 10px;
-        margin: 10px;
-    }
-</style>
-<h2>Bien venidos a Pet -  Lista de Veterinarios</h2>
-<body data-ng-app="APIModule">
-    <div id="tblSubs" ng-controller="APIController">
-        <table>
-            <tr>
-                <th>ID</th>
-                <th>Nombre</th>
-                <th>Especialidad</th>
-            </tr>
-            <tbody data-ng-repeat="sub in subscriber">
-                <tr>
-                    <td>{{sub.ID}}</td>
-                    <td>{{sub.Nombre}}</td>
-                    <td>{{sub.Especialidad}}</td>
-                </tr>
-            </tbody>
-        </table>
+
+<h2>Acerca de Pet Clinic</h2>
+<body>
+    <div>
+  
     </div>
 </body>
-<script src="~/Scripts/angular.js"></script>
-<script src="~/Scripts/angular-route.js"></script>
-<script src="~/Scripts/APIScripts/Module.js"></script>
-<script src="~/Scripts/APIScripts/Service.js"></script>
-<script src="~/Scripts/APIScripts/Controller.js"></script>   
+  

@@ -58,13 +58,13 @@ namespace Bll
         }
 
 
-        public bool ModificarVeterinario(int id, Veterinario value)
+        public bool ModificarVeterinario(Veterinario value)
         {
             bool respuesta = (new BLLControladorExcepciones<bool>()).Controla(Mensaje.CodigosMensaje.PortalErrorDesconocido, () =>
             {
                 using (TransactionScope ts = new TransactionScope())
                 {
-                    VeterinariosConsultas.ModificarVeterinario(id, value);
+                    VeterinariosConsultas.ModificarVeterinario(value);
                     ts.Complete();
                 }
 

@@ -42,10 +42,10 @@ namespace Pets.Controllers
         }
 
         // PUT api/values/5 update
-        public void Put(int id, [FromBody]Veterinario value)
+        public void Put([FromBody]Veterinario value)
         {
             VeterinarioBL controlador = (VeterinarioBL)Factoria.CrearControlador(typeof(VeterinarioBL), null);
-            controlador.ModificarVeterinario(id, value);
+            controlador.ModificarVeterinario(value);
         }
 
         // DELETE api/values/5

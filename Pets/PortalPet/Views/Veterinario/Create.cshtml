@@ -1,0 +1,46 @@
+﻿@model PortalPet.Models.VeterinarioModels
+
+@{
+    ViewBag.Title = "Pet Clinic";
+}
+
+<h2>Nuevo Veterinario</h2>
+<body data-ng-app="APIModule" >
+    <div id="tblSubs" ng-controller="APIController">
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-horizontal">
+                @*<h4>VeterinarioModels</h4>*@
+                <hr />
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Nombre, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Nombre, new { htmlAttributes = new { @class = "form-control", id ="nombre", ng_model = "nombre" } })
+    @Html.ValidationMessageFor(model => model.Nombre, "", new { @class = "text-danger" })
+                        
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Especialidad, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Especialidad, new { htmlAttributes = new { @class = "form-control", id = "especialidad", ng_model = "especialidad" }  })
+                        @Html.ValidationMessageFor(model => model.Especialidad, "", new { @class = "text-danger" })
+                        
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        @*<input type="submit" value="Create" class="btn btn-default" />*@
+                        <a ng-click="AddVete()" class="btn btn-small btn-primary">grabar</a> 
+                        @Html.ActionLink("volver a lista", "Index", "Veterinario", new { @class = "btn btn-small btn-primary" })
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</body>

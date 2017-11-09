@@ -1,0 +1,56 @@
+﻿@model PortalPet.Models.VeterinarioModels
+
+<h3>¿Estás seguro de que quieres eliminar este registro?</h3>
+<body data-ng-app="APIModule">
+    <div>
+        @*<h4>VeterinarioModels</h4>*@
+        <hr />
+        <div id="tblSubs" ng-controller="APIController">
+            <div ng-init="editVete(@Url.RequestContext.RouteData.Values["id"])">
+
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <dl class="dl-horizontal">
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.id)
+                        </dt>
+
+                        <dd>
+                            @Html.EditorFor(model => model.id, new { htmlAttributes = new { @class = "form-control", ng_model = "id", disabled = "disabled", @readonly = "readonly" } })
+                        </dd>
+
+
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Nombre)
+                        </dt>
+
+                        <dd>
+                            @Html.EditorFor(model => model.Nombre, new { htmlAttributes = new { @class = "form-control", ng_model = "nombre", disabled = "disabled", @readonly = "readonly" } })
+                        </dd>
+
+                        <dt>
+                            @Html.DisplayNameFor(model => model.Especialidad)
+                        </dt>
+
+                        <dd>
+                            @Html.EditorFor(model => model.Especialidad, new { htmlAttributes = new { @class = "form-control", ng_model = "especialidad", disabled = "disabled", @readonly = "readonly" } })
+                        </dd>
+
+                    </dl>
+
+
+
+                    <div class="form-actions no-color">
+                        @*<input type="submit" value="Delete" class="btn btn-default" />*@
+                        <a ng-click="deleteVete(@Url.RequestContext.RouteData.Values["id"])" class="btn btn-small btn-danger">eliminar</a>
+                        @Html.ActionLink("volver a lista", "Index", "Veterinario", new { @class = "btn btn-small btn-primary" })
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</body>

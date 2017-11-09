@@ -1,0 +1,35 @@
+﻿@{
+    ViewBag.Title = "Pet Clinic";
+}
+
+
+<h2>Veterinarios</h2>
+@Html.ActionLink("registrar nuevo veterinario", "Create", "Veterinario", new { area = "" }, new { @class = "btn btn-small btn-primary" })
+<body data-ng-app="APIModule">
+    <div id="tblSubs" ng-controller="APIController">
+        <table class="table table-striped table-condensed" ng-init="cargapagina()">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nombre</th>
+                    <th>Especialidad</th>
+                    <th style="width:20px;">&nbsp;</th>
+                    <th style="width:20px;">&nbsp;</th>
+                </tr>
+            </thead>
+            <tbody data-ng-repeat="sub in subscriber">
+                <tr>
+                    <td>{{sub.id}}</td>
+                    <td>{{sub.nombre}}</td>
+                    <td>{{sub.especialidad}}</td>
+                    @*<td><a ng-click="editVete(sub.id)" class="btn btn-small btn-primary">editar</a></td>*@
+                    <td><a href="Charlie/PortalPet/Veterinario/Edit/{{sub.id}}" class="btn btn-small btn-primary">editar</a></td>
+                    <td><a href="Charlie/PortalPet/Veterinario/Delete/{{sub.id}}" class="btn btn-small btn-danger">eliminar</a></td>
+                    @*<td><a ng-click="deleteVete(sub.id)" class="btn btn-small btn-danger">eliminar</a></td>*@
+                </tr>
+            </tbody>
+        </table>
+        @*<a ng-click="createNewVete()" class="btn btn-small btn-primary">registrar nuevo veterinario</a>
+            @Html.ActionLink("registrar nuevo veterinario", "Create", "Veterinario", new { area = "" }, new { @class = "btn btn-small btn-primary" })*@
+    </div>
+</body>
