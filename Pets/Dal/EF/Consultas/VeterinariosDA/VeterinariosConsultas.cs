@@ -125,6 +125,39 @@ namespace Dal.EF.Consultas.VeterinariosDA
         }
 
 
+        public static void ModificarVeterinario(Veterinario Veterinario)
+        {
+            try
+            {
+                #region Validaciones
+
+                if (Veterinario == null)
+                    throw new ArgumentException("La Veterinario no es correcta");
+
+                #endregion validaciones
+
+                using (Contexto ctx = new Contexto())
+                {
+                    var Veterinarios = (from A in ctx.Veterinarios.Where(i => i.ID == Veterinario.ID) select A);
+
+                    if (Veterinarios.Count() == 1)
+                    {
+                        ctx.Veterinarios.Remove(Veterinarios.Single());
+                    }
+
+                    ctx.Veterinarios.Add(Veterinario);
+                    ctx.SaveChanges();
+
+
+                }
+            }
+            catch (Exception ex)
+            {
+                throw TratarExcepcion(ex);
+            }
+        }
+
+
         public static void EliminarVeterinario(int Id)
         {
             try
